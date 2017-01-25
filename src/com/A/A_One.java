@@ -12,6 +12,8 @@ public class A_One {
 
 	public static void main(String[] args) {
 		System.out.println("gfh");
+		A_One obj=new A_One();
+		obj.display();
 	}
 
 }
