@@ -1,6 +1,10 @@
 package com.A;
 
 public class A_One {
+	
+	public A_One(){
+		System.out.println("constructor");
+	}
 	public void a_one(){
 		System.out.println("a_one");
 		System.out.println("This is modified");
