@@ -7,11 +7,11 @@ public class A_One {
 
 	public void display() {
 		System.out.println("Print Display");
-	}
-
-	public static void main(String[] args) {
 		
 	}
 
+	public static void main(String[] args) {
+		System.out.println("gfh");
+	}
 
 }
