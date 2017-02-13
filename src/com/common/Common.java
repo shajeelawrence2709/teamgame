@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	list.add("2");
 	for (String string : list) {
 		System.out.println(string);
+		System.out.println("Anoop");
 	}
 	
 }
