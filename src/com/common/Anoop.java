@@ -1,5 +1,5 @@
 package com.common;
 
-public class Common {
+public class Anoop {
 
 }
