@@ -17,5 +17,10 @@ public static void main(String[] args) {
 		System.out.println("Jesna");
 	}
 	
+	
+}
+
+private static void display() {
+	
 }
 }
