@@ -16,5 +16,10 @@ public static void main(String[] args) {
 		System.out.println("Hii");
 	}
 	
+	
+}
+
+private static void display() {
+	
 }
 }
