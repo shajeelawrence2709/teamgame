@@ -21,6 +21,6 @@ public static void main(String[] args) {
 }
 
 private static void display() {
-	
+	System.out.println("");
 }
 }
